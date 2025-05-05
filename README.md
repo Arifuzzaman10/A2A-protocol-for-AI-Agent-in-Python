@@ -790,10 +790,6 @@ If you find this library useful, please consider giving it a star on GitHub! It 
 
 - GitHub: [Arifuzzaman Raihan](https://github.com/Arifuzzaman10)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Made with ❤️ by [Arifuzzaman Raihan](https://github.com/Arifuzzaman10)
